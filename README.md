@@ -1,5 +1,5 @@
 # shivam
-To Run the Project we need to run it from Test Runner file using Junit Test.
+To Run the Project we need to run it from Test Runner file using Junit Test and to check reports go to Target folder-> cucumber-reports.
 
 What other Test would you suggest could be written ?
 Answer :
